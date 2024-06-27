@@ -82,4 +82,4 @@ npm run build
 ## Developer
 Robel Larger
 
-Email:cleverpanther0819@gmail.com
+Email:titanrtx0714@gmail.com
